@@ -1,0 +1,14 @@
+pyntcloud
+matplotlib
+ipython
+numpy
+scikit-learn
+scipy
+tqdm
+pandas
+seaborn
+Pillow
+pyyaml
+imageio
+sewar
+numba
