@@ -18,7 +18,7 @@
 ### Prerequisites
 
 * Python 3.6.9
-* TensorFlow 1.15.0 with CUDA 10.0.130 and cuDNN 7.4.2
+* TensorFlow 1.15.0 with CUDA 10.0.130, cuDNN 7.4.2 and GCC 7
 * [BPG codec](https://bellard.org/bpg/): `bpgenc` and `bpcdec` should be available in your `PATH`
 * G-PCC codec [mpeg-pcc-tmc13](https://github.com/MPEGGroup/mpeg-pcc-tmc13): necessary only to compare results with G-PCC,
 to obtain more recent versions you may need access to the MPEG Gitlab
