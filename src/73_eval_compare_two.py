@@ -136,7 +136,7 @@ def run(mpeg_path, mpeg2_path, cmp_path):
 
     curves = [
         ('rd_curve_y_psnr', 'y_psnr', 'Y PSNR (dB)', 'lower right'),
-        ('rd_curve_y_mae', 'y_mae', 'Y MAE (dB)', 'upper right'),
+        # ('rd_curve_y_mae', 'y_mae', 'Y MAE (dB)', 'upper right'),
         ('rd_curve_y_mse', 'y_mse', 'Y MSE (dB)', 'upper right')
     ]
 
