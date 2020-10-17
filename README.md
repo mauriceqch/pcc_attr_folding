@@ -13,6 +13,15 @@
 * **Funding**: ANR ReVeRy national fund (REVERY ANR-17-CE23-0020)
 * **Links**: [[Paper]](https://arxiv.org/abs/2002.04439)
 
+## Experimental data
+
+We provide the full experimental data used for the paper. This includes:
+- trained models for all patches
+- compressed and decompressed patches, images and point clouds
+- objective metrics for each patch and each point cloud
+
+[Download experimental data](https://mycore.core-cloud.net/index.php/s/ACITS08sNH76kKj)
+
 ## Getting started
 
 ### Prerequisites
