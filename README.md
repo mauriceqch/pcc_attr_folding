@@ -20,7 +20,7 @@ We provide the full experimental data used for the paper. This includes:
 - compressed and decompressed patches, images and point clouds
 - objective metrics for each patch and each point cloud
 
-[Download experimental data](https://mycore.core-cloud.net/index.php/s/ACITS08sNH76kKj)
+[Download experimental data](https://drive.google.com/file/d/1y8u2PT9Mwm6bD2WSf3Xygnk1p8Zo36q6/view?usp=sharing)
 
 ## Getting started
 
